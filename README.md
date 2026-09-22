@@ -1,8 +1,10 @@
 # Large Bayesian VARs for Binary, Censored and Count Variables
-
 Joshua C.C. Chan, Davide Pettenuzzo, Michael Pfarrhofer, Aubrey Poon and Dan Zhu
 
+## Description
 This repository is reserved for the code and replication files accompanying the paper. It is a placeholder for now; replication materials will be added later.
+
+> This code comes without technical support of any kind. The code is free to use, provided that the paper is cited properly.
 
 ## Abstract
 
